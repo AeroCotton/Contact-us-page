@@ -10,8 +10,8 @@
 
 ## 🚀 Live Preview  
 
-🔗 **[Live Demo](https://your-live-demo-link.com)**  
-🔗 **[GitHub Repository](https://github.com/YOUR_USERNAME/Contact-us-page)**  
+🔗 **[Live Demo](https://aerocotton.github.io/Contact-us-page/)**  
+🔗 **[GitHub Repository](https://github.com/AeroCotton/Contact-us-page)**  
 
 ---
 
