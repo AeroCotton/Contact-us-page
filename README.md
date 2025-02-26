@@ -3,15 +3,15 @@
 > A sleek and **responsive Contact Us page** built with **HTML, CSS, and JavaScript**, featuring form submissions powered by [Getform.io](https://getform.io/).  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Contact-us-page/main/assets/contact-us-preview.png" alt="Contact Us Page Preview" width="800">
+  <img src="assets/images/desktop-view.png" alt="Contact Us Page Preview" width="800">
 </p>
 
 ---
 
 ## 🚀 Live Preview  
 
-🔗 **[Live Demo](https://your-live-demo-link.com)**  
-🔗 **[GitHub Repository](https://github.com/YOUR_USERNAME/Contact-us-page)**  
+🔗 **[Live Demo](https://aerocotton.github.io/Contact-us-page/)**  
+🔗 **[GitHub Repository](https://github.com/AeroCotton/Contact-us-page)**  
 
 ---
 
@@ -53,7 +53,7 @@
 
 | **Desktop View** | **Mobile View** |
 |-----------------|----------------|
-| <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Contact-us-page/main/assets/desktop-view.png" width="400"> | <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Contact-us-page/main/assets/mobile-view.png" width="250"> |
+| <img src="assets/images/desktop-view.png" width="400"> | <img src="assets/images/mobile-view.png" width="250"> |
 
 ---
 
