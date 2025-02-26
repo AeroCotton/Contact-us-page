@@ -1,47 +1,67 @@
-# 🚀 Contact Us Page
+# 📞 Contact Us Page  
+
+> A sleek and **responsive Contact Us page** built with **HTML, CSS, and JavaScript**, featuring form submissions powered by [Getform.io](https://getform.io/).  
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x500?text=Project+Screenshot" alt="Contact Us Page Preview">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Contact-us-page/main/assets/contact-us-preview.png" alt="Contact Us Page Preview" width="800">
 </p>
 
-## 🌟 Overview
-A **modern, responsive, and elegant** contact form built with **HTML, CSS, JavaScript**, and **Bootstrap**.  
-Seamlessly integrates with **Getform.io** for backend-free email submissions.
+---
 
-🔹 **Fully Responsive** on all devices  
-🔹 **Minimalist & Stylish UI**  
-🔹 **Real-time Form Validation**  
-🔹 **Seamless Email Submission**  
+## 🚀 Live Preview  
+
+🔗 **[Live Demo](https://your-live-demo-link.com)**  
+🔗 **[GitHub Repository](https://github.com/YOUR_USERNAME/Contact-us-page)**  
 
 ---
 
-## 🌍 Live Demo
-🎯 **[Click Here to View](https://aerocotton.github.io/Contact-us-page/)** 🚀  
+## ✨ Features  
+
+✅ **Fully responsive** on all devices  
+✅ **Modern & stylish** UI design  
+✅ **Email submission** via [Getform.io](https://getform.io/)  
+✅ **Custom CSS animations** for smooth interactions  
+✅ **Form validation** with JavaScript  
+✅ **Bootstrap 5 integration** for enhanced styling  
+✅ **Lightweight and fast**  
 
 ---
 
-## 🏆 Key Features
+## 🛠 Technologies Used  
 
-✅ **Fully Responsive** – Works flawlessly on desktops, tablets, and mobiles.  
-✅ **Elegant UI Design** – A sleek and modern look for an enhanced user experience.  
-✅ **Email Submission** – Send form responses directly to an email using **Getform.io**.  
-✅ **Bootstrap Integration** – Ensures flexibility and rapid styling.  
-✅ **CSS Animations** – Smooth animations for an engaging user interaction.  
-✅ **Form Validation** – Prevents invalid form submissions with built-in JavaScript validation.  
-✅ **Cross-Browser Compatibility** – Works perfectly across Chrome, Firefox, Edge, and Safari.  
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  </a>
+  <a href="https://getform.io/">
+    <img src="https://img.shields.io/badge/Getform.io-00C7B7?style=for-the-badge&logoColor=white" alt="Getform.io">
+  </a>
+</p>
 
 ---
 
-## 🛠️ Installation & Setup
-Follow these simple steps to clone and run the project:
+## 📷 Screenshots  
 
+| **Desktop View** | **Mobile View** |
+|-----------------|----------------|
+| <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Contact-us-page/main/assets/desktop-view.png" width="400"> | <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Contact-us-page/main/assets/mobile-view.png" width="250"> |
+
+---
+
+## 📥 Installation & Setup  
+
+Follow these steps to **clone and set up** the project:  
+
+### **Clone the Repository**  
 ```bash
-# Clone the repository
-git clone https://github.com/AeroCotton/Contact-us-page.git
-
-# Navigate to the project directory
+git clone https://github.com/YOUR_USERNAME/Contact-us-page.git
 cd Contact-us-page
-
-# Open in your default browser
-start index.html  # Windows
-open index.html   # macOS
