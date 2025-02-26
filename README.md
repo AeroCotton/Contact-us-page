@@ -53,7 +53,7 @@
 
 | **Desktop View** | **Mobile View** |
 |-----------------|----------------|
-| <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Contact-us-page/main/assets/desktop-view.png" width="400"> | <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Contact-us-page/main/assets/mobile-view.png" width="250"> |
+| <img src="assets/images/desktop-view.png" width="400"> | <img src="assets/images/mobile-view.png" width="250"> |
 
 ---
 
